@@ -1,5 +1,5 @@
-# TSBANK | Construindo Uma App Simples de Banco Com Typescript
- Construindo uma aplicação simplels de Banco Com Typescript, como Desafio de Projeto na Formação TypeScript da [Digital Innovation One](https://www.dio.me/).
+# TSBANK | Construindo uma App Simples de Banco com TypeScript
+ Construindo uma aplicação simples de Banco com TypeScript, como Desafio de Projeto na Formação TypeScript da [Digital Innovation One](https://www.dio.me/).
 
 <br>
 
